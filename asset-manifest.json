@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto-cl-1/static/css/main.f9bf7b24.css",
-    "main.js": "/proyecto-cl-1/static/js/main.d9770a7c.js",
+    "main.js": "/proyecto-cl-1/static/js/main.e0affe0e.js",
     "static/js/787.1777d0ab.chunk.js": "/proyecto-cl-1/static/js/787.1777d0ab.chunk.js",
     "static/media/whatsappIcon.svg": "/proyecto-cl-1/static/media/whatsappIcon.4f801487f4e06e1fd8e9b1537804ec39.svg",
     "static/media/washerdIcon.svg": "/proyecto-cl-1/static/media/washerdIcon.46f90df9513036449ad58728efd0d724.svg",
@@ -20,11 +20,11 @@
     "static/media/facebookIcon.svg": "/proyecto-cl-1/static/media/facebookIcon.8246e75ad87437168ebee3c1eba0746f.svg",
     "static/media/icon-casita.svg": "/proyecto-cl-1/static/media/icon-casita.fbbec03c7a7fa1633721c0b20b40e9fe.svg",
     "main.f9bf7b24.css.map": "/proyecto-cl-1/static/css/main.f9bf7b24.css.map",
-    "main.d9770a7c.js.map": "/proyecto-cl-1/static/js/main.d9770a7c.js.map",
+    "main.e0affe0e.js.map": "/proyecto-cl-1/static/js/main.e0affe0e.js.map",
     "787.1777d0ab.chunk.js.map": "/proyecto-cl-1/static/js/787.1777d0ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9bf7b24.css",
-    "static/js/main.d9770a7c.js"
+    "static/js/main.e0affe0e.js"
   ]
 }
